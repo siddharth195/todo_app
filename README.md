@@ -1,5 +1,5 @@
 # Todo Application 
-This is a simple todo application 
+This is a simple TODO application 
 It has the following features:- 
 - A user can sign up 
 - A user can sign in 
